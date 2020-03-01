@@ -36,7 +36,7 @@ new_array = []
 while i < source_array.length do
   new_array.push(source_array[i]**2)
 end
-  
+
 end
 end
 
