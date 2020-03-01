@@ -24,9 +24,9 @@ i = 0
 new_array = []
 while i < source_array.length do
   new_array.push(source_array[i]*2)
+  i+=1
 end
-
-end
+new_array
 end
 
 
