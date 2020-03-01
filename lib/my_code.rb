@@ -47,9 +47,6 @@ while i < source_array.length do
   total = starting_point += source_array[i]
   i +=1
 end
-
-end
-end
 total
 end
 
