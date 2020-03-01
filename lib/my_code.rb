@@ -5,11 +5,7 @@ while i < source_array.length do
 
 end
 
-end
-new_array = [(source_array[i])*(-1)]
 
-new_array
-end
 
 
 def map_to_no_change(source_array)
