@@ -60,7 +60,6 @@ while i < source_array.length do
 end
 return true
 end
-end
 
 
 def reduce_to_any_true(source_array)
