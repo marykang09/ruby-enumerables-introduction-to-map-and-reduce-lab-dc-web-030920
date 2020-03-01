@@ -50,8 +50,7 @@ end
 total
 end
 
-end
-end
+
 
 
 def reduce_to_all_true(source_array)
